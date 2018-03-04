@@ -66,3 +66,10 @@ img:hover {
     opacity: 0.5;
     filter: alpha(opacity=50); /* For IE8 and earlier */
 }
+.jumbotron {
+width:800px;
+background-image:url(https://photos.smugmug.com/Other/August-2016-1/i-WCz4fCc/0/b2afd222/L/20160826_183729-L.jpg);
+margin-left: 730px
+    
+}
+
